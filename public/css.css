@@ -1,0 +1,13 @@
+.aside-dark .menu .menu-item .menu-link.active{
+    transition: color .2s ease,background-color .2s ease;
+    background-color: #2A2A3C;
+    color: #fff;
+    margin-right: 1rem !important;
+
+}
+.menu-sub .menu-sub-accordion{
+    margin-left: 1rem;
+}
+.menu-link{
+    padding-left: 2rem !important;
+}
